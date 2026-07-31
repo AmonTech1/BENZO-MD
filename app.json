@@ -1,0 +1,75 @@
+{
+  "name": "BENZO-MD",
+  "description": "Javascript WhatsApp bot made by ✦ BENZO TEAM ✦",
+  "logo": "https://i.ibb.co/R4GM8Yqq/benzomd.jpg",
+  "keywords": ["BENZO-MD", "whatsapp-bot", "multi-device"],
+  "repository": "https://github.com/AmonTech1/BENZO-MD",
+  "success_url": "/",
+  "stack": "heroku-24",
+
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your SESSION_ID here. Make sure it starts with BENZO-MD~",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "Write here your bot name.",
+      "value": "✦『 BENZO-MD 』✦"
+    },
+    "MODE": {
+      "description": "Bot mode can be public, private, inbox or groups",
+      "value": "private",
+      "required": true
+    },
+    "DESCRIPTION": {
+      "description": "Add caption for menu and other",
+      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ BENZO-MD ❄️*"
+    },
+    "OWNER_NUMBER": {
+      "description": "Put the owner number for bot.",
+      "value": "254116266407",
+      "required": true
+    },
+    "OWNER_NAME": {
+      "description": "Enter your name here",
+      "value": "BENZO TEAM"
+    },
+    "CUSTOM_REACT_EMOJIS": {
+      "description": "Custom react emojis",
+      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+    },
+    "AUTO_RECORDING": {
+      "description": "Auto recording",
+      "value": "false"
+    },
+    "AUTO_TYPING": {
+      "description": "Auto typing",
+      "value": "false"
+    },
+    "PREFIX": {
+      "description": "Command prefix for the bot",
+      "value": ".",
+      "required": true
+    },
+    "TIMEZONE": {
+      "description": "Bot timezone",
+      "value": "Africa/Nairobi"
+    }
+  },
+
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }
+  ]
+}
