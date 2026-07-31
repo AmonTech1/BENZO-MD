@@ -1,14 +1,12 @@
-# 🤖 Benzo-MD
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Benzo-MD;Multi+Device+Whatsapp+Bot;Coded+By+Amon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=BENZO-MD;Multi+Device+Whatsapp+Bot;Coded+By+Amon" alt="Typing SVG" />
 </a>
 
 <br />
 
-<img src="https://i.ibb.co/R4GM8Yqq/benzomd.jpg" alt="Benzo-MD" height="300">
+<img src="https://i.ibb.co/R4GM8Yqq/benzomd.jpg" alt="BENZO-MD" height="300">
 
 <br />
 
