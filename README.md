@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="https://o.uguu.se/KntRsfPu.jpg" alt="Benzo-MD" height="300">
+<img src="https://i.ibb.co/R4GM8Yqq/benzomd.jpg" alt="Benzo-MD" height="300">
 
 <br />
 
@@ -32,14 +32,14 @@
 
 ### Step 1: Fork Repository
 <div align="center">
-  <a href="https://github.com/spark-x1/Benzo-MD/fork">
+  <a href="https://github.com/AmonTech1/BENZO-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork Repository"/>
   </a>
 </div>
 
 ### Step 2: Generate Session
 <div align="center">
-  <a href="https://spark-pair.onrender.com/pair" target="_blank">
+  <a href="https://peaky-blinder-session-id.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Generate-Session_ID-success?style=for-the-badge" alt="Generate Session"/>
   </a>
 </div>
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-Made with ❤️ by Amon | Spark-X1
+Made with ❤️ by Amon
 
 <img src="https://img.shields.io/badge/⭐_Star_this_Repository-yellow?style=for-the-badge&logo=github" />
 
@@ -81,7 +81,7 @@ Made with ❤️ by Amon | Spark-X1
 
 ```bash
 # Clone repository
-git clone https://github.com/spark-x1/Benzo-MD.git
+git clone https://github.com/AmonTech1/BENZO-MD.git
 cd Benzo-MD
 
 # Install dependencies
