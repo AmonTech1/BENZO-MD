@@ -20,7 +20,7 @@
 <br />
 
 <img src="https://img.shields.io/badge/Developer-Amon-purple?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/Username-spark--x1-orange?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Username-AmonTech1-orange?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/Multi_Device-Enabled-orange?style=flat-square&logo=android" />
 <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square&logo=opensourceinitiative" />
 
@@ -82,7 +82,7 @@ Made with ❤️ by Amon
 ```bash
 # Clone repository
 git clone https://github.com/AmonTech1/BENZO-MD.git
-cd Benzo-MD
+cd BENZO-MD 
 
 # Install dependencies
 npm install
