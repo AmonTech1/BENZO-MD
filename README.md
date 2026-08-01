@@ -58,7 +58,7 @@ STEP 1: FORK REPOSITORY
 
 STEP 2: GENERATE SESSION
 
-<a href="https://benzo-session-id.onrender.com" target="_blank">
+<a href="https://session-fl9i.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/🔑-GENERATE_SESSION_ID-success?style=for-the-badge&logo=whatsapp" />
 </a>
 
